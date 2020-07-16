@@ -1,0 +1,36 @@
+{
+  "code": 0
+  ,"msg": ""
+  ,"count": 3000000
+  ,"data": [{
+    "id": 1001
+    ,"name": "香水"
+    ,"description": "xianxin@layui.com"
+    ,"price": 2800.00
+    ,"stock": 100
+    ,"categoryleveloneId": 654
+    ,"categoryleveltwoId": 654
+    ,"categorylevelthreeId": 655
+    ,"fileName": "108"
+  }, {
+    "id": 1001
+    ,"name": "香水"
+    ,"description": "xianxin@layui.com"
+    ,"price": 2800.00
+    ,"stock": 100
+    ,"categoryleveloneId": 654
+    ,"categoryleveltwoId": 654
+    ,"categorylevelthreeId": 655
+    ,"fileName": "108"
+  },{
+    "id": 1001
+    ,"name": "香水"
+    ,"description": "xianxin@layui.com"
+    ,"price": 2800.00
+    ,"stock": 100
+    ,"categoryleveloneId": 654
+    ,"categoryleveltwoId": 654
+    ,"categorylevelthreeId": 655
+    ,"fileName": "108"
+  }]
+}  
